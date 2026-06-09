@@ -2,14 +2,15 @@
 
 This repository contains my personal cybersecurity notes and lab reports created during my eJPT preparation.
 
-These reports are not intended to be formal penetration testing reports, but rather technical learning documents. Their main purpose is to keep a clear record of the labs I completed, the tools and commands I used, and the reasoning behind each step.
+These reports were written by me based on my own hands-on work in the labs. They are technical learning documents, not formal penetration testing reports, and their purpose is to keep a clear record of the tools, commands, methodology, and reasoning used during my training.
 
-The focus of these reports is on understanding the methodology, documenting the process, and showing my practical progress throughout the eJPT path.
+The goal is to document what I learned in a structured and understandable way, showing practical understanding rather than only course completion.
 
 ## Language Note
 
-The first report and the beginning of the second report are written in Spanish. The remaining reports are written in English as part of my effort to document my cybersecurity learning process in a more professional and internationally used language.
+Some of the first notes are written in Spanish, while the later reports are written in English as part of my effort to document my cybersecurity learning process in a more professional and internationally used language.
 
 ## Disclaimer
 
 All activities documented in these reports were performed in authorized lab environments for educational purposes only.
+
