@@ -1,8 +1,10 @@
 # eJPT Reports
 
-This repository contains my personal notes and lab reports created during my eJPT preparation.
+This repository contains my personal cybersecurity notes and lab reports created during my eJPT preparation.
 
-The goal is to keep a clear record of the labs I completed, the tools and commands I used, and the reasoning behind each step. These reports were written to organize what I learned and to document my practical progress in penetration testing.
+These reports are not intended to be formal penetration testing reports, but rather technical learning documents. Their main purpose is to keep a clear record of the labs I completed, the tools and commands I used, and the reasoning behind each step.
+
+The focus of these reports is on understanding the methodology, documenting the process, and showing my practical progress throughout the eJPT path.
 
 ## Language Note
 
@@ -11,4 +13,3 @@ The first report is written in Spanish. The following reports are written in Eng
 ## Disclaimer
 
 All activities documented in these reports were performed in authorized lab environments for educational purposes only.
-
