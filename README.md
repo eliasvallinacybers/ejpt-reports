@@ -8,8 +8,9 @@ The goal is to document what I learned in a structured and understandable way, s
 
 ## Language Note
 
-Some of the first notes are written in Spanish, while the later reports are written in English as part of my effort to document my cybersecurity learning process in a more professional and internationally used language.
+The first report and the beginning of the second report are written in Spanish. The remaining reports are written in English as part of my effort to document my cybersecurity learning process in a more professional and internationally used language.
 
 ## Disclaimer
 
-All activities documented in these reports were performed in authorized lab environments for educational purposes only.
+All the activities documented in these reports were performed in authorized lab environments for educational purposes only.
+
