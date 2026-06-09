@@ -8,7 +8,7 @@ The focus of these reports is on understanding the methodology, documenting the 
 
 ## Language Note
 
-The first report is written in Spanish. The following reports are written in English as part of my effort to document my cybersecurity learning process in a more professional and internationally used language.
+The first report and the beginning of the second report are written in Spanish. The remaining reports are written in English as part of my effort to document my cybersecurity learning process in a more professional and internationally used language.
 
 ## Disclaimer
 
